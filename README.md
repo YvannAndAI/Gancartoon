@@ -3,5 +3,4 @@ This is a GAN from scratch using pytorch. For the training, I used kaggle's GPU1
 
 | Real | Generated |
 |------|----------|
-| ![Real Cartoon](https://github.com/user-attachments/assets/c1ee6254-033d-4369-9557-d4a4dce74b90) | ![Generated Cartoon] (https://github.com/user-attachments/assets/87af5bff-5ba2-453d-af91-faea6c63b551)|
-
+| ![Real Cartoon](https://github.com/user-attachments/assets/c1ee6254-033d-4369-9557-d4a4dce74b90) | ![Generated Cartoon](https://github.com/user-attachments/assets/015b95ad-ca61-4dc4-a5c8-e4110f2ceb10)|
